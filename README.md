@@ -1,7 +1,7 @@
 # Hi there, I'm Dónal 👋  
 
 💻 **Software Developer** | Physics graduate | Former Intel Product Development Engineer  
-📍 Portlaoise, Ireland | 🌐 [LinkedIn](https://linkedin.com/in/donalmur) | ✉️ donal.murphy@outlook.ie  
+📍 Ireland | 🌐 [LinkedIn](https://linkedin.com/in/donalmur) | ✉️ donal.murphy@outlook.ie  
 
 ---
 
