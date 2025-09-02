@@ -30,7 +30,7 @@
 ---
 
 ## 📌 Featured Projects  
-- **[Word Replacer (Java)](https://github.com/Donal-Murphy/Word-Replacer](https://github.com/Donal-Murphy/Word-Replacer))** – Uses word embeddings & vector distances to replace words with more common alternatives.  
+- **[Word Replacer (Java)](https://github.com/Donal-Murphy/Word-Replacer)** – Uses word embeddings & vector distances to replace words with more common alternatives.  
 - **[Country, News & Weather App (Angular/Ionic)](https://github.com/Donal-Murphy/NewsWeatherApp)** – Mobile app leveraging REST APIs to fetch country, news, and weather data.  
 - **[Java Chat Client](https://github.com/Donal-Murphy/Chatroom-App)** – Socket-based client/host chat service supporting up to 50 users.  
 - **[Online Shop Website](https://github.com/Donal-Murphy/Online-Web-Store)** – MySQL-integrated e-commerce prototype with inventory and login functionality.  
